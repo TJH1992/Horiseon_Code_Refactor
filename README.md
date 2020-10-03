@@ -2,7 +2,7 @@
 ## User Story
 A a marketing agency
 I want a codebase that follows accessibility standards
-so THAT our own site is optimized for search engines
+so that our own site is optimized for search engines
 ## Table of Contents
 * Description
 * Installation
